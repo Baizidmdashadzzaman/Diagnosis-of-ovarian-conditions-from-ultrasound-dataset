@@ -1,0 +1,7 @@
+While class weights are a great starting point, here are a few other methods you could consider to further improve performance for the minority class:
+
+More Aggressive Data Augmentation: The current code already uses some augmentation, like random rotations and flips. You could explore more intense transformations, such as changing the brightness or contrast more dramatically, to generate a wider variety of images for the "Normal" class.
+
+Oversampling: This technique involves artificially increasing the number of images in the minority class by duplicating them or using techniques like SMOTE (Synthetic Minority Over-sampling Technique). This would give the model more examples of "Normal" images to learn from.
+
+Focal Loss: This is a more advanced loss function designed to handle extreme class imbalance by down-weighting the loss from well-classified examples, allowing the model to focus on the harder-to-classify, minority examples.
