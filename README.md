@@ -4,4 +4,18 @@
 
 ![Image](Screenshot2025-09-06002218.png?raw=true "Image")
 
-![Image](screencapture-kaggle-code-baizidmdashadzzaman-ovarian-ultrasound-v1-edit-2025-09-06-08_53_51.png?raw=true "Image")
+![Image](3.png?raw=true "Image")
+
+![Image](4.png?raw=true "Image")
+
+![Image](5.png?raw=true "Image")
+
+![Image](6.png?raw=true "Image")
+
+![Image](7.png?raw=true "Image")
+
+![Image](8.png?raw=true "Image")
+
+![Image](9.png?raw=true "Image")
+
+![Image](10.png?raw=true "Image")
