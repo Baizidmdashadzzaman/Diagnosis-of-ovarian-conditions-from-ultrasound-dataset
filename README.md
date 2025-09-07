@@ -1,5 +1,7 @@
 # AI-powered diagnosis of ovarian conditions: insights from a newly introduced ultrasound dataset
 
+![Image](11.png?raw=true "Image")
+
 ![Image](Screenshot2025-09-06002335.png?raw=true "Image")
 
 ![Image](Screenshot2025-09-06002218.png?raw=true "Image")
